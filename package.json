@@ -1,8 +1,8 @@
 {
-  "author": "Dmitry Prokashev <heliosframework@gmail.com>",
-  "name": "microlight",
-  "description": "highlights code in any language",
-  "version": "0.0.7",
+  "author": "Kyleplo",
+  "name": "minilight",
+  "description": "highlights code in any language, based off of microlight",
+  "version": "0.0.1",
   "keywords": [
     "syntax",
     "highlight",
@@ -15,9 +15,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/asvd/microlight.git"
+    "url": "git://github.com/kyleplo/minilight.git"
   },
-  "main": "microlight.js",
+  "main": "minilight.js",
   "dependencies": {},
   "devDependencies": {},
   "optionalDependencies": {},
