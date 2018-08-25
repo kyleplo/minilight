@@ -65,7 +65,7 @@
                 lastTokenType,
                 // flag determining if token is multi-character
                 multichar,
-                node,
+                node;
 
             // running through characters and highlighting
             while (prev2 = prev1,
